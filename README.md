@@ -10,9 +10,6 @@ I have 1.7 years of experience as a UI Developer & ability to create innovative,
 * ✉️  You can contact me at [bhushansatonne2013@gmail.com](mailto:bhushansatonne2013@gmail.com)
 * 🧠  I'm learning React.js
 
-<a href="https://www.github.com/bhushan-1272" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/bhushan-1272?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
