@@ -8,6 +8,7 @@ I have 1.7 years of experience as a UI Developer & ability to create innovative,
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhushansatonne2013@gmail.com](mailto:bhushansatonne2013@gmail.com)
+* 🧠   My contact no 7741882457(tel: 7741882457)
 * 🧠  I'm learning React.js
 
 ### Skills
