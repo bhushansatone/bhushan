@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UI Developer
 ------------
 
-I have 2 years of experience as a UI Developer & ability to create innovative, creative & interactive web designs. Sound knowledge in HTML 5, CSS 3, BOOTSTRAP 5.2, JavaScript, React.js.
+Having 2.1 years of experience as a UI Developer & ability to create innovative, creative & interactive web designs. Sound knowledge in HTML 5, CSS 3, Bootstrap 5.2, JavaScript, React.js.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bhushansatonne2013@gmail.com](mailto:bhushansatonne2013@gmail.com)
