@@ -8,7 +8,7 @@ Having 3+ years of experience as a UI Developer & ability to create innovative, 
 Basic knowledge of Php, Node.js, MongoDB, Express.js
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [bhushansatonne2013@gmail.com](mailto:bhushansatonne2013@gmail.com)
+* ✉️  You can contact me at [bhushansatonew@gmail.com](mailto:bhushansatonew@gmail.com)
 * 🧠   My contact no is 7741882457
 
 ### Skills
